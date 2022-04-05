@@ -6,5 +6,4 @@ The test is not official, it's just a nice way to see how much you know, or don'
 <h1>Scores</h1>
 You'll get 1 point for each correct answer. At the end of the Quiz, your total score will be displayed. Maximum score is 40 points.
 <h1>Start</h1>
-Start the Quiz by
-<a href="https://quizzes.htmlg0d.repl.co/339493743/">Clicking Here!</a>
+Start the Quiz by <a href="https://html-quiz.bled-gamer.repl.co/82891.html">Clicking Here!</a>
