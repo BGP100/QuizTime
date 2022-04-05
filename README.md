@@ -30,7 +30,7 @@ When you finish the quiz, you can go through each question with the correct answ
   <li>Pandas (25 Questions)</li>
   <li>Math (25 Questions)</li>
   <li>Git (25 Questions)</li>
-  <li>AWS Cloud (25 Questions)</li>
+  <li>AWS Cloud (40 Questions)</li>
   <li>AWS Serverless (25 Questions)</li>
   <li>Cyber Security (25 Questions)</li>
   <li>Accessibility (25 Questions)</li>
