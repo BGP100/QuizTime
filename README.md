@@ -11,6 +11,7 @@ When you finish the quiz, you can go through each question with the correct answ
   <li>HTML (40 Questions)</li>
   <li>CSS (25 Questions)</li>
   <li>JavaScript (25 Questions)</li>
+  <li>HTML5 (7 Questions)</li>
   <li>SQL (25 Questions)</li>
   <li>MySQL (25 Questions)</li>
   <li>Python (25 Questions)</li>
