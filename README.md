@@ -3,7 +3,7 @@ Quizzes made with HTML for HTML learners!
 <br>
 Test your skills with my Quizzes.
 <h1>QuizList</h1>
-Each quiz contains 25-40 questions, you get 1 point for each correct answer, at the end of each quiz you get your total score.
+Each quiz contains 25-40 questions (sometimes 7), you get 1 point for each correct answer, at the end of each quiz you get your total score.
 <p></p>
 When you finish the quiz, you can go through each question with the correct answer.
 <br>
