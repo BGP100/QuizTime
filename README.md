@@ -21,6 +21,7 @@ When you finish the quiz, you can go through each question with the correct answ
   <li>Bootstrap 4 (10 Questions)</li>
   <li>Bootstrap 5 (10 Questions)</li>
   <li>Java (10 Questions)</li>
+  <li>C (7 Questions)</li>
   <li>C++ (10 Questions)</li>
   <li>C# (10 Questions)</li>
   <li>React (10 Questions)</li>
