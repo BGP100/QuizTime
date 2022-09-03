@@ -6,4 +6,4 @@ The test is not official, it's just a nice way to see how much you know, or don'
 <h1>Scores</h1>
 When you loose you need to restart all again.
 <h1>Start</h1>
-Start the Quiz by <a href="https://html-quiz.bledgamer.repl.co/82891.html">Clicking Here!</a>
+Start the Quiz by <a href="https://html.bledsquiz.repl.co/">Clicking Here!</a>
