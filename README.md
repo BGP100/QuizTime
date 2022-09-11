@@ -29,10 +29,11 @@ When you finish the quiz, you can go through each question with the correct answ
   <li>NumPy (7 Questions)</li>
   <li>SciPy (7 Questions)</li>
   <li>Pandas (10 Questions)</li>
-  <li>Math (10 Questions)</li>
   <li>Git (7 Questions)</li>
   <li>AWS Cloud (10 Questions)</li>
   <li>AWS Serverless (10 Questions)</li>
   <li>Cyber Security (10 Questions)</li>
   <li>Accessibility (7 Questions)</li>
+  <li>MathJax (10 Questions)</li>
+  <li>Kotlin (10 Questions)</li>
 </ol>
