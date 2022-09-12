@@ -1,6 +1,6 @@
 You can test your C# skills with my Quiz.
 <h1>About</h1>
-The test contains 10 questions and there is no time limit. 
+The test contains 7 questions and there is no time limit. 
 <p></p>
 The test is not official, it's just a nice way to see how much you know, or don't know, about C#.
 <h1>Scores</h1>
