@@ -15,7 +15,6 @@ When you finish the quiz, you can go through each question with the correct answ
   <li>MySQL (10 Questions)</li>
   <li>Python (10 Questions)</li>
   <li>PHP (10 Questions)</li>
-  <li>jQuery (7 Questions)</li>
   <li>Bootstrap (10 Questions)</li>
   <li>Bootstrap 4 (7 Questions)</li>
   <li>Bootstrap 5 (7 Questions)</li>
@@ -28,7 +27,6 @@ When you finish the quiz, you can go through each question with the correct answ
   <li>XML (10 Questions)</li>
   <li>NumPy (7 Questions)</li>
   <li>SciPy (7 Questions)</li>
-  <li>Pandas (10 Questions)</li>
   <li>Git (7 Questions)</li>
   <li>AWS Cloud (10 Questions)</li>
   <li>AWS Serverless (10 Questions)</li>
